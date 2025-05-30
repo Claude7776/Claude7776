@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @Claude7776
-- 👀 I’m interested in ...I'for computer science I love technology and the whole digital world I'm more of a nerd than a geek
-<!---
-Claude7776/Claude7776 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👽 Version fun et geek assumée
+
+> 🛠️ Je transforme des vieux PC en serveurs, des téléphones en FTPS, et des idées en dépôts GitHub.
+🎯 Objectif : hacker la réalité (éthique)
+💻 Linux-first | 🔄 Automatisation | ☁️ Zero cloud - full local
+🏗️ Sky Blue Corporation - R&D personnelle
+> 777
+> 42
+> 1337
+> Born To IT && Code 
