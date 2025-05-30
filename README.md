@@ -5,6 +5,5 @@
 💻 Linux-first | 🔄 Automatisation | ☁️ Zero cloud - full local
 🏗️ Sky Blue Corporation - R&D personnelle
 > 777
-> 42
-> 1337
+> 42 || 1337
 > Born To IT && Code 
