@@ -4,6 +4,12 @@
 🎯 Objectif : hacker la réalité (éthique)
 💻 Linux-first | 🔄 Automatisation | ☁️ Zero cloud - full local
 🏗️ Sky Blue Corporation - R&D personnelle
-> 777
-> 42 || 1337
-> Born To IT && Code 
+> 
+> #include <stdio.h>
+> char school[] = "42 Born To Code";
+> char school1[] = "1337 Future is the loading";
+> /*Just for Fun : ) */
+> while (school1 == "42 Born To Code" && school == "1337 Future is the loading")
+> {
+>     printf("Hello Wolrd");
+> }
