@@ -9,7 +9,7 @@
 > char school[] = "42 Born To Code";
 > char school1[] = "1337 Future is the loading";
 > /*Just for Fun : ) */
-> while (school1 == "42 Born To Code" && school == "1337 Future is the loading")
-> {
+> 
+> 
 >     printf("Hello Wolrd");
-> }
+> 
