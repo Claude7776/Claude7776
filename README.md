@@ -10,6 +10,6 @@
 > char school1[] = "1337 Future is the loading";
 > /*Just for Fun : ) */
 > 
-> 
->     printf("Hello Wolrd");
+>     #include <unistd.h>
+>     write(1, "Hello Wolrd", 11);
 > 
