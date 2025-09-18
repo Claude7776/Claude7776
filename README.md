@@ -3,17 +3,20 @@
 > Passionné d’IT, cybersécurité et automatisation, je transforme des idées en projets concrets. Ce profil GitHub reflète mes expériences pratiques, mon apprentissage continu et ma polyvalence.
 
 ---
-## 🌟 Mon niveau IT / DevOps
+# 🌟 Évolution de mes compétences IT / DevOps
 
-**Linux / Serveurs**       ▓▓▓▓▓▓▓▓▓▓ 100%  
-**Réseau & Sécurité**      ▓▓▓▓▓▓▓▓ 80%  
-**Automatisation / DevOps** ▓▓▓▓▓▓▓ 70%  
-**Langages / Web**         ▓▓▓▓ 40%  
-**Projets & Portfolio**    ▓▓▓▓▓▓▓▓ 80%  
-**Autonomie**              ▓▓▓▓▓▓▓▓▓▓ 100%  
-**Documentation GitHub**   ▓▓▓▓▓▓▓ 70%  
-**Cybersécurité / SOC**    ▓▓▓▓▓ 50%
+| Compétences           | 2024 (Avant)       | 2025 (Maintenant) |
+|-----------------------|------------------|------------------|
+| **Linux / Serveurs**       | ████ 40%          | ██████████ 100%  |
+| **Réseau & Sécurité**      | ███ 30%           | ████████ 80%     |
+| **Automatisation / DevOps**| ██ 20%            | ███████ 70%      |
+| **Langages / Web**         | ██ 20%            | ███ 40%          |
+| **Projets & Portfolio**    | █ 10%             | ████████ 80%     |
+| **Autonomie**              | ███ 30%           | ██████████ 100%  |
+| **Documentation GitHub**   | █ 10%             | ███████ 70%      |
+| **Cybersécurité / SOC**    | █ 10%             | █████ 50%        |
 
+> Les barres représentent le niveau approximatif de maîtrise.
 ---
 ## 🛠 Compétences principales
 
