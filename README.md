@@ -32,7 +32,7 @@
 ## 🔗 Liens utiles
 
 - [Mon GitHub](https://github.com/Claude7776)  
-- [LinkedIn](https://www.linkedin.com/in/claude-m%C3%A9dine-gambigha)  
+- [LinkedIn](https://www.linkedin.com/in/claude-m%C3%A9dine-gambigha%F0%9F%91%BE%E2%9A%99%EF%B8%8F-5434b4332/)  
 
 ---
 
