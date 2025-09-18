@@ -36,6 +36,10 @@
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Claude7776&layout=compact&theme=radical)
+
+---
+
 ## 💡 À propos
 
 - Passionné par **l’IT et la cybersécurité**, je combine administration système, réseau et automatisation pour résoudre des problèmes concrets.  
