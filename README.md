@@ -3,7 +3,18 @@
 > Passionné d’IT, cybersécurité et automatisation, je transforme des idées en projets concrets. Ce profil GitHub reflète mes expériences pratiques, mon apprentissage continu et ma polyvalence.
 
 ---
+## 🌟 Mon niveau IT / DevOps
 
+**Linux / Serveurs**       ▓▓▓▓▓▓▓▓▓▓ 100%  
+**Réseau & Sécurité**      ▓▓▓▓▓▓▓▓ 80%  
+**Automatisation / DevOps** ▓▓▓▓▓▓▓ 70%  
+**Langages / Web**         ▓▓▓▓ 40%  
+**Projets & Portfolio**    ▓▓▓▓▓▓▓▓ 80%  
+**Autonomie**              ▓▓▓▓▓▓▓▓▓▓ 100%  
+**Documentation GitHub**   ▓▓▓▓▓▓▓ 70%  
+**Cybersécurité / SOC**    ▓▓▓▓▓ 50%
+
+---
 ## 🛠 Compétences principales
 
 - **Systèmes et serveurs Linux** : Ubuntu, Zorin, Linux Mint, gestion initramfs, D-Bus, GRUB.  
