@@ -1,31 +1,38 @@
 # 👾 Claude Médine GAMBIGHA – IT Consultant Junior / DevOps Hybride
 
-> Passionné d’IT, cybersécurité et automatisation, je transforme des idées en projets concrets. Ce profil GitHub reflète mes expériences pratiques, mon apprentissage continu et ma polyvalence.
+> Passionné d’IT, cybersécurité et automatisation, je transforme des idées en projets concrets.  
+> Ce profil GitHub reflète mes expériences pratiques, mon apprentissage continu et ma polyvalence.
 
 ---
+
 # 🌟 Évolution de mes compétences IT / DevOps
 
-| Compétences           | 2024 (Avant)       | 2025 (Maintenant) |
-|-----------------------|------------------|------------------|
-| **Linux / Serveurs**       | ████ 40%          | ██████████ 100%  |
-| **Réseau & Sécurité**      | ███ 30%           | ████████ 80%     |
-| **Automatisation / DevOps**| ██ 20%            | ███████ 70%      |
-| **Langages / Web**         | ██ 20%            | ███ 40%          |
-| **Projets & Portfolio**    | █ 10%             | ████████ 80%     |
-| **Autonomie**              | ███ 30%           | ██████████ 100%  |
-| **Documentation GitHub**   | █ 10%             | ███████ 70%      |
-| **Cybersécurité / SOC**    | █ 10%             | █████ 50%        |
+| Compétences                 | 2024 (Avant)       | 2025 (Maintenant) |
+|-----------------------------|------------------|------------------|
+| **Linux / Serveurs**             | ████ 40%          | ██████████ 100%  |
+| **Réseau & Sécurité**            | ███ 30%           | █████████ 90%    |
+| **Automatisation / DevOps**      | ██ 20%            | ████████ 80%     |
+| **Langages / Web / API**         | ██ 20%            | ████ 50%         |
+| **Projets & Portfolio**          | █ 10%             | ████████ 80%     |
+| **Autonomie & Gestion IT**       | ███ 30%           | ██████████ 100%  |
+| **Documentation GitHub / CI/CD** | █ 10%             | ████████ 75%     |
+| **Cybersécurité / SOC / SIEM**   | █ 10%             | ███████ 60%      |
+| **Virtualisation & Containers**  | █ 10%             | ████████ 80%     |
 
 > Les barres représentent le niveau approximatif de maîtrise.
+
 ---
+
 ## 🛠 Compétences principales
 
-- **Systèmes et serveurs Linux** : Ubuntu, Zorin, Linux Mint, gestion initramfs, D-Bus, GRUB.  
-- **Réseau & sécurité** : Pi-hole, surveillance réseau, firewall, Radmin, SSH, FTP/SFTP.  
-- **Automatisation & DevOps** : Shell scripting, Docker, Git/GitHub, scripts de maintenance.  
-- **Cybersécurité & SOC** : Analyse de logs, Hack The Box, TryHackMe, gestion alertes.  
-- **CRM & télécom** : Clicksip, VoxCRM, Vicibox.  
-- **Langages** : C, Bash, Python (bases), HTML/CSS/JS pour prototypes et web vitrine.  
+- **Systèmes et serveurs Linux** : Ubuntu Server, Linux Mint, Zorin, Cockpit, Samba, initramfs, D-Bus, GRUB.  
+- **Réseau & Sécurité** : Pi-hole, pfSense, firewall, Wireshark, monitoring réseau, SSH/FTP/SFTP, Proxy Squid.  
+- **Automatisation & DevOps** : Shell scripting, Docker, Git/GitHub, Cron jobs, maintenance et déploiement automatisé.  
+- **Cybersécurité & SOC** : Analyse de logs, Threat Hunting (TryHackMe / HackTheBox), détection d’incidents, Blue Teaming.  
+- **CRM & Télécom** : Clicksip, VoxCRM, Vicibox (predictive mode, inbound, recording).  
+- **Langages & Web** : C, Bash, Python (scripts utilitaires), HTML/CSS/JS, intégration Stripe.  
+- **Virtualisation & Services** : VirtualBox, VMware, environnement homelab, DNS/DHCP local, monitoring avec Glances & Atop.  
+- **Gestion & Documentation IT** : Planification réseau, gestion d’infrastructure, rédaction technique et documentation GitHub.  
 
 ---
 
@@ -33,29 +40,34 @@
 
 | Projet | Description | Tech / Skills |
 |--------|-------------|---------------|
-| **Linux Troubleshooting** | Arborescence complète pour dépannage Linux, scripts initramfs, D-Bus, backup et migration Zorin → Mint | Bash, Linux, Git |
-| **Pi-hole Homelab** | Filtrage DNS local, monitoring, gestion DHCP personnalisée | Linux, Pi-hole, Networking |
-| **BlueSentinel** | Simulation SOC pour analyser incidents et logs | Linux, Security, Logging |
-| **NASA Space Apps Challenge** | Participation en équipe pour résoudre un challenge pratique | GitHub, Collaboration, DevOps |
-| **Site web vitrine** | Développement et déploiement d’un site web local | HTML/CSS/JS, XAMPP, Linux Server |
+| **SkyMonitor** | Outil de supervision Linux/serveurs en développement (projet principal 2025) | Bash, Monitoring, Logging, UI minimaliste |
+| **Pi-hole Homelab** | Filtrage DNS local, gestion DHCP personnalisé, blocage sélectif | Linux, Pi-hole, Networking |
+| **BlueSentinel** | Simulation SOC pour analyse d’incidents et corrélation de logs | Security, SIEM Logic, Linux |
+| **Vicibox Server** | Configuration complète d’un call center prédictif et enregistrement des appels | Vicibox, Linux, Réseau |
+| **Proxy Squid Network Control** | Blocage de sites et gestion de trafic pour PME | Linux, Proxy, Sécurité réseau |
+| **Linux Troubleshooting** | Scripts avancés pour dépannage système, gestion initramfs et migration | Bash, System Recovery |
+| **Sky Blue Web** | Site vitrine déployé sur serveur Ubuntu avec DNS et HTTPS configurés | HTML/CSS/JS, XAMPP, DNS |
+| **Docker Lab** | Environnement d’apprentissage Docker pour services isolés | Docker, Linux |
+| **NASA Space Apps Challenge** | Participation en équipe sur un projet data-driven | GitHub, Collaboration, DevOps |
 
-> Tous les projets sont documentés avec des README détaillés et scripts prêts à l’emploi.
+> Tous les projets sont documentés avec des README complets, scripts testés et instructions de déploiement.
 
 ---
 
 ## 🔗 Liens utiles
 
-- [Mon GitHub](https://github.com/Claude7776)  
-- [LinkedIn](https://www.linkedin.com/in/claude-m%C3%A9dine-gambigha%F0%9F%91%BE%E2%9A%99%EF%B8%8F-5434b4332/)  
+- [💻 Mon GitHub](https://github.com/Claude7776)  
+- [🔗 LinkedIn](https://www.linkedin.com/in/claude-m%C3%A9dine-gambigha%F0%9F%91%BE%E2%9A%99%EF%B8%8F-5434b4332/)  
 
 ---
 
 ## 💡 À propos
 
-- Passionné par **l’IT et la cybersécurité**, je combine administration système, réseau et automatisation pour résoudre des problèmes concrets.  
-- J’aime **apprendre sur le terrain**, documenter mes expériences et partager mes projets.  
-- Mon objectif : devenir un **consultant IT hybride**, capable de gérer projets techniques, sécurité et optimisation réseau.
+- Passionné par **l’IT, la cybersécurité et l’automatisation**, j’allie rigueur et créativité pour résoudre des problèmes techniques réels.  
+- Je privilégie une approche **hybride et évolutive**, entre **systèmes, sécurité et DevOps**.  
+- J’aime apprendre en continu, documenter mes projets et transmettre mes connaissances.  
+- Objectif : devenir un **consultant IT global** capable de concevoir, sécuriser et automatiser des infrastructures complètes.
 
 ---
 
-> 🖥️ Ce profil est maintenu depuis un terminal **Termux**, démontrant mes compétences en environnement Linux mobile et ma capacité à travailler sur des projets réels même sur smartphone.
+> 🖥️ Ce profil est maintenu depuis un environnement Linux mobile **(Termux)**, prouvant ma capacité à administrer, coder et documenter **même depuis un terminal Android**.
