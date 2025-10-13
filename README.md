@@ -13,6 +13,8 @@
 
 ---
 
+![SkyMonitor Banner](profile/banner-tron-ares.svg)
+
 ## 🧠 Profil & Vision
 
 Je suis **Claude Médine GAMBIGHA**, un **architecte IT hybride** mêlant :
