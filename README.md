@@ -13,7 +13,7 @@
 
 ---
 
-![SkyMonitor Banner](profile/banner-tron-ares.svg)
+![SkyMonitor Banner](profile/tech.png)
 
 ## 🧠 Profil & Vision
 
