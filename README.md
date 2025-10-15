@@ -27,19 +27,25 @@ Je transforme les environnements techniques en **laboratoires d’innovation**, 
 
 ---
 
-## ⚙️ Évolution technologique
+## ⚡ Niveau & Progression
 
-| Compétence 🧩 | 2024 | 2025 |
-|---------------|-------|------|
-| **Linux / Serveurs** | ████ 40% | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
-| **Réseau & Sécurité** | ███ 30% | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 90% |
-| **Automatisation / DevOps** | ██ 20% | 🟩🟩🟩🟩🟩🟩🟩🟩 80% |
-| **Cybersécurité / SOC / SIEM** | █ 10% | 🟩🟩🟩🟩🟩🟩 60% |
-| **Virtualisation & Containers** | █ 10% | 🟩🟩🟩🟩🟩🟩🟩🟩 80% |
-| **Langages / Web / API** | ██ 20% | 🟩🟩🟩🟩🟩 50% |
-| **Gestion & Documentation IT** | ███ 30% | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
+### 🔹 Niveau actuel : **7 / 10 – DevOps Junior Confirmé**
+💡 Chaque projet est une brique qui fait évoluer mes compétences.
 
-> 🎯 *Évolution mesurée par la maîtrise réelle sur le terrain : serveurs, réseau, projets et sécurité.*
+**XP Global :**
+![XP Global](https://img.shields.io/badge/XP-70%25-brightgreen?style=for-the-badge)
+
+| Compétence 🧩 | XP actuel |
+|---------------|-----------|
+| **Linux / Serveurs** | ![Linux](https://img.shields.io/badge/Linux-70%25-brightgreen?style=for-the-badge) |
+| **Réseau & Sécurité** | ![Sécurité](https://img.shields.io/badge/S%C3%A9curit%C3%A9-70%25-brightgreen?style=for-the-badge) |
+| **Automatisation / DevOps** | ![DevOps](https://img.shields.io/badge/DevOps-70%25-brightgreen?style=for-the-badge) |
+| **Cybersécurité / SOC / SIEM** | ![SOC](https://img.shields.io/badge/SOC-60%25-yellow?style=for-the-badge) |
+| **Virtualisation & Containers** | ![Containers](https://img.shields.io/badge/Containers-70%25-brightgreen?style=for-the-badge) |
+| **Langages / Web / API** | ![Web](https://img.shields.io/badge/Web-50%25-orange?style=for-the-badge) |
+| **Gestion & Documentation IT** | ![Documentation](https://img.shields.io/badge/Docs-100%25-blue?style=for-the-badge) |
+
+> 🎯 Progression mesurée par la maîtrise réelle sur le terrain : serveurs, réseau, projets et sécurité.
 
 ---
 
@@ -109,8 +115,5 @@ Je transforme les environnements techniques en **laboratoires d’innovation**, 
   <img src="https://img.shields.io/badge/Built%20with-Linux%20%7C%20Coffee%20%7C%20Passion-orange?style=for-the-badge"/>
 </p>
 
-> 🧠 *Tout ce dépôt GitHub est administré, documenté et versionné depuis un environnement Linux mobile (Termux).*
->  
+> 🧠 *Tout ce dépôt GitHub est administré, documenté et versionné depuis un environnement Linux mobile (Termux).*  
 > ⚡ *Une preuve que la technologie, quand elle est maîtrisée, n’a aucune limite.*
-
----
