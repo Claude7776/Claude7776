@@ -55,10 +55,10 @@ Je transforme les environnements techniques en **laboratoires d’innovation**, 
 `Ubuntu Server` • `pfSense` • `Pi-hole` • `Samba` • `Firewall` • `DNS/DHCP`
 
 ### ⚙️ DevOps & Automatisation
-`Docker` • `Bash` • `Cron` • `GitHub Actions` • `CI/CD` • `Monitoring`  
+`Docker` • `Bash` • `Cron` • `GitHub Actions` • `CI/CD` • `Monitoring` • `Automation Scripts`
 
 ### 🧠 Sécurité / SOC
-`TryHackMe` • `HackTheBox` • `Glances` • `Atop` • `Threat Analysis` • `Blue Team`  
+`TryHackMe` • `HackTheBox` • `Glances` • `Atop` • `Threat Analysis` • `Blue Team` • `Vulnerability Scanning`
 
 ### 💻 Développement Web
 `Flask` • `Python` • `HTML` • `CSS` • `JS` • `Stripe API`  
