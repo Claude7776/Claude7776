@@ -1,148 +1,126 @@
 <!--───────────────────────────────────────────────────────────────-->
 <h1 align="center">⚡ Claude Médine GAMBIGHA ⚡</h1>
-<h3 align="center">IT Consultant Junior • DevOps Hybride • Cyber & Automation Engineer</h3>
+<h3 align="center">IT Consultant Junior • DevSecOps Architect • Automation & Cyber Engineer</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Linux%20Expert-🧠-brightgreen?style=flat-square"/>
-  <img src="https://img.shields.io/badge/DevOps-Docker%20|%20Automation-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DevOps-Docker%20|%20CI/CD%20|%20VPS-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/Security-Blue%20Team%20%7C%20SOC%20Ops-red?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Innovation-Sky%20Blue%20Corporation-%2300BFFF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Automation-n8n%20|%20APIs%20|%20Workflows-purple?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Cloud-Vercel%20|%20VPS%20|%20Hostinger-orange?style=flat-square"/>
 </p>
 <!--───────────────────────────────────────────────────────────────-->
 
-> 💬 *"Je ne code pas seulement des outils. Je conçois des systèmes capables d’apprendre, de réagir et d’évoluer."*  
+> 💬 *"Je ne code pas seulement des outils. Je construis des infrastructures automatisées, sécurisées et déployables à grande échelle."*
 
 ---
 
-![SkyMonitor Banner](profile/tech.png)
-
 ## 🧠 Profil & Vision
 
-Je suis **Claude Médine GAMBIGHA**, un **architecte IT orienté DevSecOps & Automation**, combinant :
+Je suis **Claude Médine GAMBIGHA**, un **architecte IT hybride** spécialisé dans :
 
-- 🖥 **Administration système Linux avancée**
-- 🔐 **Cybersécurité opérationnelle & cryptographie appliquée**
-- ⚙️ **Automatisation intelligente (n8n, CI/CD, scripting)**
-- 🐳 **Conteneurisation & infrastructure modulaire**
-- 📊 **Monitoring & analyse d’événements (SOC mindset)**
+- 🖥 Administration Linux avancée & serveurs (Ubuntu, Cockpit, VPS)
+- 🔐 Cybersécurité opérationnelle (SOC mindset, TryHackMe, HTB)
+- ⚙️ DevOps & déploiement (Docker, CI/CD, GitHub Actions, SonarQube)
+- ☁️ Cloud & hosting (VPS, Vercel, Hostinger, domaines)
+- 🔄 Automatisation avancée (n8n, APIs, webhooks, workflows)
+- 🧠 Systèmes réseau (pfSense, DNS, Pi-hole, Samba, firewalling)
+- 📞 Infrastructure call center (Vicibox, VoIP, monitoring)
 
-Je conçois des environnements techniques comme des **écosystèmes sécurisés et automatisés**,  
-où chaque service est :
-
-> **Observable • Automatisé • Sécurisé • Documenté**
+> Je conçois des systèmes où chaque composant est :  
+**sécurisé • automatisé • observable • scalable**
 
 ---
 
 ## ⚡ Niveau & Progression
 
-### 🔹 Niveau actuel : **8 / 10 – DevSecOps Engineer en progression**
-
-💡 Ma montée en compétence est orientée vers :
-- L’automatisation intelligente
-- La sécurité by design
-- La maîtrise des flux de données
-- La cryptographie moderne
+### 🔹 Niveau actuel : **8.5 / 10 – DevSecOps Engineer en évolution terrain**
 
 **XP Global :**
-![XP Global](https://img.shields.io/badge/XP-80%25-brightgreen?style=for-the-badge)
+![XP Global](https://img.shields.io/badge/XP-85%25-brightgreen?style=for-the-badge)
 
-| Compétence 🧩 | XP actuel |
-|---------------|-----------|
-| **Linux / Serveurs** | ![Linux](https://img.shields.io/badge/Linux-80%25-brightgreen?style=for-the-badge) |
-| **Réseau & Sécurité** | ![Sécurité](https://img.shields.io/badge/S%C3%A9curit%C3%A9-75%25-brightgreen?style=for-the-badge) |
-| **Automatisation / DevOps** | ![DevOps](https://img.shields.io/badge/DevOps-80%25-brightgreen?style=for-the-badge) |
-| **Cryptographie appliquée** | ![Crypto](https://img.shields.io/badge/Cryptography-70%25-yellowgreen?style=for-the-badge) |
-| **SOC / Threat Analysis** | ![SOC](https://img.shields.io/badge/SOC-70%25-yellowgreen?style=for-the-badge) |
-| **Virtualisation & Containers** | ![Containers](https://img.shields.io/badge/Containers-80%25-brightgreen?style=for-the-badge) |
-| **Langages / Web / API** | ![Web](https://img.shields.io/badge/Web-60%25-yellow?style=for-the-badge) |
-| **Automatisation No-Code / Workflows (n8n)** | ![n8n](https://img.shields.io/badge/n8n-75%25-brightgreen?style=for-the-badge) |
-
-> 🎯 Progression mesurée sur projets réels : déploiements, sécurisation, automatisation et implémentation crypto.
+| Compétence 🧩 | Niveau |
+|---------------|--------|
+| Linux / Serveurs | 85% |
+| Réseaux & Sécurité | 80% |
+| DevOps / CI-CD / Docker | 85% |
+| Cloud / VPS / Deployment | 80% |
+| Automatisation (n8n / APIs) | 85% |
+| SOC / Cybersecurity | 75% |
+| Web Dev / React / CRM | 75% |
+| Infrastructure Call Center | 80% |
 
 ---
 
 ## 🧩 Stack & Expertise
 
-### 🖥️ Systèmes / Réseaux
-`Ubuntu Server` • `pfSense` • `Pi-hole` • `Samba` • `DNS/DHCP` • `Firewall` • `Reverse Proxy`
+### 🖥️ Systèmes & Réseaux
+`Ubuntu Server` • `pfSense` • `Pi-hole` • `Samba` • `FTP` • `DNS/DHCP` • `Cockpit` • `Firewall` • `Reverse Proxy`
 
-### ⚙️ DevOps & Automatisation
-`Docker` • `Bash` • `Cron` • `GitHub Actions` • `CI/CD` • `Monitoring`  
-`n8n (Workflows, Webhooks, API automation, orchestration)`  
-`Infrastructure modulaire & scripting sécurisé`
+### ⚙️ DevOps & Cloud
+`Docker` • `DockerHub` • `GitHub Actions` • `CI/CD` • `VPS Deployment`  
+`Vercel` • `Hostinger Domain` • `SonarQube` • `Nginx`
 
-### 🔐 Cryptographie & Sécurité
+### 🔄 Automatisation
+`n8n` • `Webhooks` • `REST APIs` • `Workflow orchestration` • `Alerting systems`
 
-- `AES-256-GCM`
-- `PBKDF2`
-- `OpenSSL`
-- `Hashing sécurisé`
-- `Conception de coffre-fort numérique`
-- `Gestion sécurisée des secrets`
-- `Threat Modeling basique`
-- `Sécurité by design`
+### 🔐 Cyber & SOC
+`TryHackMe` • `HackTheBox` • `Log analysis` • `Intrusion detection`  
+`Glances` • `Atop` • `Process Explorer` • `Incident simulation`
 
-### 🧠 Sécurité / SOC
+### 💻 Développement
+`React` • `Node.js` • `Python` • `Flask` • `JavaScript`  
+`CRM Systems` • `Stripe API` • `Web apps` • `Dashboard UI`
 
-`TryHackMe` • `HackTheBox` • `Glances` • `Atop`  
-Analyse de logs • Corrélation d’événements • Simulation Blue Team  
-Détection d’anomalies • Analyse d’incidents
+### 📞 Infrastructure réelle
+`Vicibox Call Center` • `VoIP routing` • `Predictive dialing`  
+`Server monitoring` • `Network optimization`
 
-### 💻 Développement & API
-
-`Flask` • `Python` • `C (projets cryptographiques)`  
-`HTML` • `CSS` • `JavaScript`  
-`Stripe API` • `Webhooks` • `REST APIs`
+### 🛠️ Support IT terrain
+`Remote support` • `IP Scanner` • `Radmin` • `Windows/Linux hybrid support`  
+`Office activation` • `Driver repair` • `On-site interventions`
 
 ---
 
 ## 🚀 Projets emblématiques
 
 | 🛰 Projet | Description | Stack |
-|-----------|-------------|--------|
-| **SecureVault** | Coffre-fort numérique avec AES-256-GCM & PBKDF2 | C • OpenSSL • Linux |
-| **SkyMonitor** | Monitoring système & réseau temps réel | Flask • InfluxDB • Grafana • Docker |
-| **BlueSentinel (SOC Simulation)** | Analyse et corrélation d’incidents | Linux • SIEM mindset • Logs |
-| **n8n Automation Lab** | Orchestration d’API, alerting, workflows sécurisés | n8n • Webhooks • Docker |
-| **Pi-hole Homelab** | DNS filtering + gestion réseau | Pi-hole • Linux |
-| **Docker Lab** | Environnement multi-conteneurs modulaire | Docker • Networking |
-
-> 📘 Chaque projet est documenté avec architecture, logique de sécurité et principes d’implémentation.
+|----------|-------------|------|
+| **SecureVault** | Coffre-fort cryptographique AES-256 | C • OpenSSL • Linux |
+| **SkyMonitor** | Monitoring système & réseau temps réel | Flask • Docker • Grafana |
+| **BlueSentinel SOC** | Analyse & détection d’incidents | Linux • Logs • SOC |
+| **CRM Platform (React)** | CRM pour call centers & artisans | React • Node • API |
+| **Vicibox Lab** | Infrastructure call center complète | Vicibox • VoIP |
+| **n8n Automation Lab** | Workflows automatisés intelligents | n8n • APIs • Docker |
+| **VPS Deployment System** | Déploiement multi-apps cloud | VPS • Docker • Nginx |
 
 ---
 
 ## 🌌 Vision 2026+
 
-> **Construire des infrastructures automatisées, sécurisées et intelligentes.**
-
-Objectifs :
-
-- 🔐 Développer une **suite open-source orientée sécurité & cryptographie**
-- ⚙️ Créer une **plateforme d’automatisation sécurisée basée sur n8n**
-- ☁️ Concevoir une architecture DevSecOps modulaire
-- 🤖 Intégrer IA & détection d’anomalies dans le monitoring
-- 🛰️ Faire évoluer Sky Blue Corporation vers un pôle d’innovation technologique
+- 🔐 Créer une **plateforme DevSecOps automatisée open-source**
+- ⚙️ Déployer un **CRM scalable pour call centers & entreprises**
+- ☁️ Construire une **infrastructure cloud automatisée multi-VPS**
+- 🤖 Intégrer IA + SOC pour détection d’anomalies en temps réel
+- 🛰 Développer Sky Blue Corporation en stack technologique complète
 
 ---
 
 ## 🧾 Identité Technique
 
 🌍 GitHub → https://github.com/Claude7776  
-💼 LinkedIn → Claude Médine GAMBIGHA  
 🏢 Organisation → Sky Blue Corporation  
-📡 Orientation → DevSecOps • Cryptographie • Automation Architect  
+☁️ Orientation → DevSecOps • Automation • Cloud Infrastructure  
+📡 Spécialisation → Systèmes hybrides sécurisés & scalables  
 
 ---
 
 ## 💬 Philosophie
 
-> “La sécurité n’est pas une option. C’est une architecture.”  
 > “Automatiser sans sécuriser, c’est accélérer le risque.”  
+> “Un système bien conçu est un système qui se gère presque seul.”  
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Built%20with-Linux%20%7C%20Automation%20%7C%20Cryptography-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Built%20with-Linux%20%7C%20Cloud%20%7C%20Automation%20%7C%20Security-blue?style=for-the-badge"/>
 </p>
-
-> 🧠 Tous les projets sont pensés avec une logique :  
-> **Confidentialité • Intégrité • Disponibilité • Automatisation.**
