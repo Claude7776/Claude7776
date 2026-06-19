@@ -1,126 +1,224 @@
 <!--───────────────────────────────────────────────────────────────-->
+
 <h1 align="center">⚡ Claude Médine GAMBIGHA ⚡</h1>
-<h3 align="center">IT Consultant Junior • DevSecOps Architect • Automation & Cyber Engineer</h3>
+
+<h3 align="center">
+IT Consultant • DevSecOps Enthusiast • Automation & Infrastructure Engineer
+</h3>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux%20Expert-🧠-brightgreen?style=flat-square"/>
-  <img src="https://img.shields.io/badge/DevOps-Docker%20|%20CI/CD%20|%20VPS-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Security-Blue%20Team%20%7C%20SOC%20Ops-red?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Automation-n8n%20|%20APIs%20|%20Workflows-purple?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Cloud-Vercel%20|%20VPS%20|%20Hostinger-orange?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Linux-Ubuntu%20%7C%20Servers-brightgreen?style=flat-square"/>
+<img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20CI/CD-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Security-SOC%20%7C%20Blue%20Team-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/Automation-n8n%20%7C%20APIs-purple?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cloud-VPS%20%7C%20Vercel%20%7C%20Nginx-orange?style=flat-square"/>
+
 </p>
-<!--───────────────────────────────────────────────────────────────-->
-
-> 💬 *"Je ne code pas seulement des outils. Je construis des infrastructures automatisées, sécurisées et déployables à grande échelle."*
 
 ---
 
-## 🧠 Profil & Vision
+# 👨‍💻 About Me
 
-Je suis **Claude Médine GAMBIGHA**, un **architecte IT hybride** spécialisé dans :
+I am an **IT Consultant** passionate about building **secure**, **automated**, and **scalable** infrastructures.
 
-- 🖥 Administration Linux avancée & serveurs (Ubuntu, Cockpit, VPS)
-- 🔐 Cybersécurité opérationnelle (SOC mindset, TryHackMe, HTB)
-- ⚙️ DevOps & déploiement (Docker, CI/CD, GitHub Actions, SonarQube)
-- ☁️ Cloud & hosting (VPS, Vercel, Hostinger, domaines)
-- 🔄 Automatisation avancée (n8n, APIs, webhooks, workflows)
-- 🧠 Systèmes réseau (pfSense, DNS, Pi-hole, Samba, firewalling)
-- 📞 Infrastructure call center (Vicibox, VoIP, monitoring)
+My expertise combines:
 
-> Je conçois des systèmes où chaque composant est :  
-**sécurisé • automatisé • observable • scalable**
+* 🖥 Linux Administration & Server Management
+* 🔐 Cybersecurity & Security Operations
+* ⚙️ DevOps & CI/CD Pipelines
+* ☁️ Cloud & VPS Infrastructure
+* 🔄 Automation with APIs & Workflows
+* 🌐 Networking & Security
+* 📞 Call Center Infrastructure
+* 💻 Web Applications & CRM Systems
 
----
-
-## ⚡ Niveau & Progression
-
-### 🔹 Niveau actuel : **8.5 / 10 – DevSecOps Engineer en évolution terrain**
-
-**XP Global :**
-![XP Global](https://img.shields.io/badge/XP-85%25-brightgreen?style=for-the-badge)
-
-| Compétence 🧩 | Niveau |
-|---------------|--------|
-| Linux / Serveurs | 85% |
-| Réseaux & Sécurité | 80% |
-| DevOps / CI-CD / Docker | 85% |
-| Cloud / VPS / Deployment | 80% |
-| Automatisation (n8n / APIs) | 85% |
-| SOC / Cybersecurity | 75% |
-| Web Dev / React / CRM | 75% |
-| Infrastructure Call Center | 80% |
+> **I design systems that are secure, automated, observable and scalable.**
 
 ---
 
-## 🧩 Stack & Expertise
+# 🧠 Core Skills
 
-### 🖥️ Systèmes & Réseaux
-`Ubuntu Server` • `pfSense` • `Pi-hole` • `Samba` • `FTP` • `DNS/DHCP` • `Cockpit` • `Firewall` • `Reverse Proxy`
+## 🖥 Systems & Networks
 
-### ⚙️ DevOps & Cloud
-`Docker` • `DockerHub` • `GitHub Actions` • `CI/CD` • `VPS Deployment`  
-`Vercel` • `Hostinger Domain` • `SonarQube` • `Nginx`
-
-### 🔄 Automatisation
-`n8n` • `Webhooks` • `REST APIs` • `Workflow orchestration` • `Alerting systems`
-
-### 🔐 Cyber & SOC
-`TryHackMe` • `HackTheBox` • `Log analysis` • `Intrusion detection`  
-`Glances` • `Atop` • `Process Explorer` • `Incident simulation`
-
-### 💻 Développement
-`React` • `Node.js` • `Python` • `Flask` • `JavaScript`  
-`CRM Systems` • `Stripe API` • `Web apps` • `Dashboard UI`
-
-### 📞 Infrastructure réelle
-`Vicibox Call Center` • `VoIP routing` • `Predictive dialing`  
-`Server monitoring` • `Network optimization`
-
-### 🛠️ Support IT terrain
-`Remote support` • `IP Scanner` • `Radmin` • `Windows/Linux hybrid support`  
-`Office activation` • `Driver repair` • `On-site interventions`
+* Ubuntu Server
+* Cockpit
+* pfSense
+* Pi-hole
+* Samba
+* FTP Server
+* DNS / DHCP
+* Firewall Configuration
+* Nginx Reverse Proxy
+* Network Monitoring
 
 ---
 
-## 🚀 Projets emblématiques
+## ⚙️ DevOps & Cloud
 
-| 🛰 Projet | Description | Stack |
-|----------|-------------|------|
-| **SecureVault** | Coffre-fort cryptographique AES-256 | C • OpenSSL • Linux |
-| **SkyMonitor** | Monitoring système & réseau temps réel | Flask • Docker • Grafana |
-| **BlueSentinel SOC** | Analyse & détection d’incidents | Linux • Logs • SOC |
-| **CRM Platform (React)** | CRM pour call centers & artisans | React • Node • API |
-| **Vicibox Lab** | Infrastructure call center complète | Vicibox • VoIP |
-| **n8n Automation Lab** | Workflows automatisés intelligents | n8n • APIs • Docker |
-| **VPS Deployment System** | Déploiement multi-apps cloud | VPS • Docker • Nginx |
-
----
-
-## 🌌 Vision 2026+
-
-- 🔐 Créer une **plateforme DevSecOps automatisée open-source**
-- ⚙️ Déployer un **CRM scalable pour call centers & entreprises**
-- ☁️ Construire une **infrastructure cloud automatisée multi-VPS**
-- 🤖 Intégrer IA + SOC pour détection d’anomalies en temps réel
-- 🛰 Développer Sky Blue Corporation en stack technologique complète
+* Docker & Docker Compose
+* Git & GitHub
+* GitHub Actions
+* CI/CD Pipelines
+* VPS Deployment
+* Nginx
+* Vercel
+* Hostinger
+* Domain Management
 
 ---
 
-## 🧾 Identité Technique
+## 🔐 Cybersecurity
 
-🌍 GitHub → https://github.com/Claude7776  
-🏢 Organisation → Sky Blue Corporation  
-☁️ Orientation → DevSecOps • Automation • Cloud Infrastructure  
-📡 Spécialisation → Systèmes hybrides sécurisés & scalables  
+* Security Monitoring
+* Log Analysis
+* Blue Team Mindset
+* Incident Simulation
+* TryHackMe
+* Hack The Box
+* Process Explorer
+* Glances
+* Atop
+* Vulnerability Assessment
 
 ---
 
-## 💬 Philosophie
+## 🔄 Automation
 
-> “Automatiser sans sécuriser, c’est accélérer le risque.”  
-> “Un système bien conçu est un système qui se gère presque seul.”  
+* n8n
+* REST APIs
+* Webhooks
+* Workflow Automation
+* Alert Systems
+* Process Automation
+
+---
+
+## 💻 Development
+
+* React
+* Node.js
+* JavaScript
+* Python
+* Flask
+* HTML / CSS
+
+### Applications
+
+* CRM Systems
+* Dashboard Interfaces
+* Payment Integration (Stripe)
+* Real-time Messaging
+* Authentication Systems
+
+---
+
+# 🚀 Featured Projects
+
+### 🛰 CRM Platform
+
+Complete CRM platform with:
+
+* Lead management
+* Real-time messaging
+* User roles & permissions
+* Stripe payment integration
+* PDF generation
+* Docker deployment
+* Responsive UI
+* Dark / Light themes
+
+**Stack**
+
+`React` • `Node.js` • `MongoDB` • `Docker` • `Nginx`
+
+---
+
+### 📞 Vicibox Infrastructure
+
+Deployment and administration of:
+
+* Predictive dialing
+* Inbound & outbound calls
+* Call recording
+* VoIP routing
+* Monitoring
+* Backup & restore
+
+---
+
+### 🔄 Automation Lab
+
+Intelligent workflows using:
+
+* n8n
+* APIs
+* Webhooks
+* Notifications
+* Docker containers
+
+---
+
+### 🛡 Cybersecurity Lab
+
+Personal lab focused on:
+
+* Linux security
+* SOC simulations
+* Log analysis
+* Network monitoring
+* Threat detection
+* TryHackMe & HackTheBox
+
+---
+
+# 🌌 Vision
+
+* Build secure and scalable infrastructures
+* Develop advanced automation systems
+* Design cloud-native applications
+* Combine AI + Security Operations
+* Grow Sky Blue Corporation into a complete technology ecosystem
+
+---
+
+# 🏢 Sky Blue Corporation
+
+> Secure • Automated • Scalable
+
+Specialized in:
+
+* IT Consulting
+* DevSecOps
+* Cloud Infrastructure
+* Automation
+* Cybersecurity
+* CRM & Business Applications
+
+---
+
+# 📫 Connect
+
+🌍 GitHub : https://github.com/Claude7776
+
+💼 Focus :
+
+`DevSecOps` • `Automation` • `Cybersecurity`
+`Cloud Infrastructure` • `CRM Systems`
+`Linux Servers` • `Networking`
+
+---
+
+# 💬 Philosophy
+
+> "Automating without securing means accelerating risk."
+
+> "The best systems are the ones that manage themselves."
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Built%20with-Linux%20%7C%20Cloud%20%7C%20Automation%20%7C%20Security-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Built%20with-Linux%20%7C%20Cloud%20%7C%20Automation%20%7C%20Security-blue?style=for-the-badge"/>
+
 </p>
