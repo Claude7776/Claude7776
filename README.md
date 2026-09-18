@@ -1,32 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=280&section=header&text=Claude%20Médine%20GAMBIGHA&fontSize=46&fontColor=00F5D4&animation=fadeIn&fontAlignY=38&desc=Digital%20Architect%20•%20IT%20Consultant%20•%20DevSecOps%20%26%20Cloud&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=280&section=header&text=Claude%20M%C3%A9dine%20GAMBIGHA&fontSize=46&fontColor=00F5D4&animation=fadeIn&fontAlignY=38&desc=Digital%20Architect%20%E2%80%A2%20IT%20Consultant%20%E2%80%A2%20DevSecOps%20%26%20Cloud&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
-<a href="https://github.com/Claude7776">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=00F5D4&center=true&vCenter=true&width=820&lines=Digital+Architect+%7C+IT+Consultant;DevSecOps+%7C+Cloud+%26+Infrastructure;Designing+secure%2C+automated+digital+systems;From+business+logic+to+production+infrastructure;Automate+%7C+Secure+%7C+Observe+%7C+Build" alt="Typing SVG" />
-</a>
+<a href="https://github.com/Claude7776"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=00F5D4&center=true&vCenter=true&width=820&lines=Digital+Architect+%7C+IT+Consultant;DevSecOps+%7C+Cloud+%26+Infrastructure;Designing+secure%2C+automated+digital+systems;From+business+logic+to+production+infrastructure;Automate+%7C+Secure+%7C+Observe+%7C+Build" alt="Typing SVG" /> </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Claude7776&label=Profile%20Views&color=00F5D4&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Claude7776?label=Followers&style=for-the-badge&color=00F5D4&logo=github" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/Claude7776?affiliations=OWNER&style=for-the-badge&color=00F5D4&logo=github" alt="Stars"/>
+<img src="https://komarev.com/ghpvc/?username=Claude7776&label=Profile%20Views&color=00F5D4&style=for-the-badge" alt="Profile Views"/> <img src="https://img.shields.io/github/followers/Claude7776?label=Followers&style=for-the-badge&color=00F5D4&logo=github" alt="Followers"/> <img src="https://img.shields.io/github/stars/Claude7776?affiliations=OWNER&style=for-the-badge&color=00F5D4&logo=github" alt="Stars"/>
 
 <br/><br/>
 
-<a href="https://github.com/Claude7776">
-<img src="https://img.shields.io/badge/GitHub-Claude7776-0F2027?style=for-the-badge&logo=github&logoColor=00F5D4"/>
-</a>
+<a href="https://github.com/Claude7776"> <img src="https://img.shields.io/badge/GitHub-Claude7776-0F2027?style=for-the-badge&logo=github&logoColor=00F5D4"/> </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Sky%20Blue%20Corporation-IT%20Consulting-0F2027?style=for-the-badge&logo=cloudflare&logoColor=00F5D4"/>
-</a>
+<a href="#"> <img src="https://img.shields.io/badge/Sky%20Blue%20Corporation-IT%20Consulting-0F2027?style=for-the-badge&logo=cloudflare&logoColor=00F5D4"/> </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Status-Open%20to%20Collaboration-0F2027?style=for-the-badge&logo=vercel&logoColor=00F5D4"/>
-</a>
+<a href="#"> <img src="https://img.shields.io/badge/Status-Open%20to%20Collaboration-0F2027?style=for-the-badge&logo=vercel&logoColor=00F5D4"/> </a>
 
 </div>
 
