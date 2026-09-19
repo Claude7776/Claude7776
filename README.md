@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=280&section=header&text=Claude%20M%C3%A9dine%20GAMBIGHA&fontSize=46&fontColor=00F5D4&animation=fadeIn&fontAlignY=38&desc=Digital%20Architect%20%E2%80%A2%20IT%20Consultant%20%E2%80%A2%20DevSecOps%20%26%20Cloud&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=280&section=header&text=Claude%20M%C3%A9dine%20GAMBIGHA&fontSize=46&fontColor=00F5D4&animation=fadeIn&fontAlignY=38&desc=Digital%20Architect%20%E2%80%A2%20IT%20Consultant%20%E2%80%A2%20DevSecOps%20%26%20Cloud&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
@@ -445,7 +445,7 @@ The goal is to **design systems that can be operated, secured, monitored and evo
 <div align="center">
 
 | Domain                    | Status      | Focus                                     |
-| ------------------------- | ----------- | ----------------------------------------- |
+| ------------------------- | ----------- | ------------------------------------------ |
 | 🐧 Linux & Systems        | 🟢 Active   | Administration • Hardening • Automation   |
 | ☁️ Cloud & Infrastructure | 🟢 Active   | Docker • VPS • Nginx • CI/CD              |
 | 🛡️ Cybersecurity         | 🟢 Active   | Defensive Security • Threat Analysis      |
@@ -556,7 +556,7 @@ If you're building something that needs to go **from idea → architecture → p
 
 <div align="center">
 
-<em>“Automate. Secure. Observe. Build.”</em>
+<em>"Automate. Secure. Observe. Build."</em>
 
 <br/><br/>
 
@@ -564,4 +564,4 @@ If you're building something that needs to go **from idea → architecture → p
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=150&section=footer&fontColor=00F5D4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=150&section=footer&fontColor=00F5D4" width="100%"/>
