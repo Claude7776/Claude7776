@@ -287,6 +287,8 @@ Technology serves the architecture, the business requirements and the people usi
 
 ### 🧾 ProjEoo
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=100&text=ProjEoo&fontSize=32&fontColor=00F5D4&fontAlignY=55&desc=SaaS%20%E2%80%A2%20CRM%20%E2%80%A2%20Payments&descAlignY=80&descSize=14" width="100%"/>
+
 A SaaS ecosystem combining a public platform, CRM and backend services for managing customers, prospects, workflows and transactions.
 
 **Architecture:** React • Node.js • MongoDB • JWT • Docker • Nginx • Stripe • Yousign
@@ -295,6 +297,8 @@ A SaaS ecosystem combining a public platform, CRM and backend services for manag
 
 ### 📊 SkyMonitor
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=100&text=SkyMonitor&fontSize=32&fontColor=00F5D4&fontAlignY=55&desc=Observability%20%E2%80%A2%20Security%20%E2%80%A2%20Metrics&descAlignY=80&descSize=14" width="100%"/>
+
 Infrastructure monitoring and security-oriented observability platform combining system metrics, network information, container analysis and security tooling.
 
 **Architecture:** Python • Flask • Docker • Grafana • InfluxDB • nmap • psutil
@@ -302,6 +306,8 @@ Infrastructure monitoring and security-oriented observability platform combining
 ---
 
 ### 💼 Finora — AI Accounting Platform
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=100&text=Finora&fontSize=32&fontColor=00F5D4&fontAlignY=55&desc=AI%20Accounting%20%E2%80%A2%20RBAC%20%E2%80%A2%20Audit%20Logs&descAlignY=80&descSize=14" width="100%"/>
 
 An accounting SaaS concept designed around **AI-assisted financial analysis, structured accounting workflows and human validation**.
 
@@ -322,6 +328,8 @@ The architecture explores:
 
 ### ☎️ Vicibox Infrastructure
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=100&text=Vicibox%20Infrastructure&fontSize=28&fontColor=00F5D4&fontAlignY=55&desc=VoIP%20%E2%80%A2%20Linux%20%E2%80%A2%20WireGuard&descAlignY=80&descSize=14" width="100%"/>
+
 VoIP infrastructure project involving Linux servers, networking, SIP/telephony services, VPN connectivity and production-oriented administration.
 
 **Focus:** Linux • Networking • VoIP • WireGuard • Infrastructure Security
@@ -329,6 +337,8 @@ VoIP infrastructure project involving Linux servers, networking, SIP/telephony s
 ---
 
 ### 🐧 Linux & Infrastructure Labs
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=100&text=Linux%20%E2%80%A2%20Infrastructure%20Labs&fontSize=24&fontColor=00F5D4&fontAlignY=55&desc=Hardening%20%E2%80%A2%20Networking%20%E2%80%A2%20Automation&descAlignY=80&descSize=14" width="100%"/>
 
 Hands-on experiments around Linux administration, server hardening, networking, automation, monitoring and infrastructure reliability.
 
