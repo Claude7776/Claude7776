@@ -344,6 +344,24 @@ Hands-on experiments around Linux administration, server hardening, networking, 
 
 **Focus:** Linux • Bash • Networking • Security • Automation
 
+---
+
+### 🔄 Windows Server → Linux AD Migration
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=100&text=AD%20to%20Samba%20Migration&fontSize=28&fontColor=00F5D4&fontAlignY=55&desc=Active%20Directory%20%E2%80%A2%20Samba%20%E2%80%A2%20Linux&descAlignY=80&descSize=14" width="100%"/>
+
+Migration of a Windows Server environment running Active Directory Domain Services to a Linux-based infrastructure, replacing AD with **Samba** as an open-source equivalent for directory, authentication and domain services.
+
+The project covers:
+
+* Windows Server & Active Directory Domain Services analysis
+* Samba AD DC deployment as an open-source AD replacement
+* LDAP / Kerberos authentication parity
+* Domain, users, groups and GPO-equivalent migration
+* Controlled, verified state of migrated data (data integrity checks throughout the migration)
+
+**Focus:** Windows Server • Active Directory • Samba • Linux • LDAP • Kerberos • Data Migration & Integrity Control
+
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=2&width=100%" width="100%"/>
