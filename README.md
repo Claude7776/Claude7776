@@ -155,7 +155,7 @@ Technology serves the architecture, the business requirements and the people usi
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,docker,git,github,githubactions,nodejs,react,js,ts,py,flask,php,mongodb,postgres,nginx,cloudflare,vercel,bash,figma&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,docker,git,github,githubactions,nodejs,react,js,ts,py,c,flask,php,mongodb,postgres,supabase,nginx,cloudflare,vercel,bash,figma&theme=dark&perline=10" />
 
 </div>
 
@@ -241,10 +241,12 @@ Technology serves the architecture, the business requirements and the people usi
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
 
 </div>
